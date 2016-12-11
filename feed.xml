@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://mahdikarimian.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://mahdikarimian.github.io" />
-<updated>2016-11-21T20:55:09+03:30</updated>
+<updated>2016-12-11T23:35:27+03:30</updated>
 <id>https://mahdikarimian.github.io/</id>
 <author>
   <name>Mahdi Karimian</name>
@@ -15,10 +15,53 @@
 
 
 <entry>
+  <title type="html"><![CDATA[What is a FPGA?]]></title>
+  <link rel="alternate" type="text/html" href="https://mahdikarimian.github.io/articles/FPGA-intro" />
+  <id>https://mahdikarimian.github.io/articles/FPGA-intro</id>
+  <updated>2016-12-11T00:00:00-00:00</updated>
+  <published>2016-12-11T00:00:00+03:30</published>
+  
+  <author>
+    <name>Mahdi Karimian</name>
+    <uri>https://mahdikarimian.github.io</uri>
+    <email>mahdiks@gmail.com</email>
+  </author>
+  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-a-processor-works-with-fpga&quot;&gt;How a processor works with FPGA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;h1 id=&quot;how-a-processor-works-with-fpga&quot;&gt;How a processor works with FPGA&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MahdiKarimian/ZYNQ/wiki/FPGA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA&quot;&gt;My wiki about zynq and FPGA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;‫چرا FPGA و یا گیت‌های ساده را در کنار پردازنده‌ها نیاز داریم؟&lt;/p&gt;
+
+&lt;p&gt;‫FPGA چیست و چگونه از آن در بهتر شدن پروژه خود استفاده کنیم؟&lt;/p&gt;
+
+&lt;p&gt;‫آیا بهتر نیست برای طراحی ارزان از CPLD ها استفاده شود؟&lt;/p&gt;
+
+&lt;p&gt;‫چرا پردازنده هایی مانند  ZYNQ مطرح شده اند؟&lt;/p&gt;
+
+&lt;p&gt;‫&lt;a href=&quot;https://github.com/MahdiKarimian/ZYNQ/wiki/FPGA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA&quot;&gt;ویکی من در مورد طراحی با FPGA&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;https://mahdikarimian.github.io/articles/FPGA-intro&quot;&gt;What is a FPGA?&lt;/a&gt; was originally published by Mahdi Karimian at &lt;a href=&quot;https://mahdikarimian.github.io&quot;&gt;Mahdi Karimian website&lt;/a&gt; on December 11, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[My Resume]]></title>
   <link rel="alternate" type="text/html" href="https://mahdikarimian.github.io/articles/MYCV" />
   <id>https://mahdikarimian.github.io/articles/MYCV</id>
-  <updated>2016T00:00:00-00:00</updated>
+  <updated>2016-09-20T00:00:00-00:00</updated>
   <published>2016-09-20T00:00:00+04:30</published>
   
   <author>
@@ -31,10 +74,15 @@
     &lt;h3&gt;Contents&lt;/h3&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#my-resume&quot;&gt;My resume&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
 &lt;!-- /#table-of-contents --&gt;
+
+&lt;h4 id=&quot;my-resume&quot;&gt;My resume&lt;/h4&gt;
 
 &lt;h id=&quot;body-text&quot; dir=&quot;ltr&quot;&gt;
 
